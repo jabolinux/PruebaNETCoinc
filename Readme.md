@@ -1,7 +1,7 @@
 
 # API de Usuarios y Ubicaciones
 # Para Prueba C# empresa Coinc
-# Autor: Jaime Bonilla
+# Autor: Jaime ALfredo Bonilla Pérez
 
 API simple para gestionar usuarios y sus ubicaciones geográficas (país, departamento, municipio).
 
